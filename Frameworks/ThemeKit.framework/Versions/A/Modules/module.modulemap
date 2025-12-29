@@ -1,0 +1,6 @@
+framework module ThemeKit {
+  umbrella header "ThemeKit.h"
+  export *
+
+  module * { export * }
+}

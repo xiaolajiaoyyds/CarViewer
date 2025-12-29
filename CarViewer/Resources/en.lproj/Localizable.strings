@@ -1,0 +1,77 @@
+/*
+  Localizable.strings (English)
+  CarViewer
+*/
+
+// MARK: - App
+"app.name" = "CarViewer";
+
+// MARK: - Menu
+"menu.file" = "File";
+"menu.open" = "Open...";
+"menu.save" = "Save";
+"menu.export" = "Export";
+"menu.exportSelected" = "Export Selected...";
+"menu.exportAll" = "Export All...";
+"menu.replace" = "Replace Image...";
+"menu.copyName" = "Copy Name";
+"menu.copySize" = "Copy Size";
+
+// MARK: - Sidebar
+"sidebar.categories" = "Categories";
+
+// MARK: - Filter Types
+"filter.all" = "All";
+"filter.image" = "Images";
+"filter.color" = "Colors";
+"filter.gradient" = "Gradients";
+"filter.effect" = "Effects";
+"filter.pdf" = "PDF";
+"filter.svg" = "SVG";
+"filter.rawData" = "Raw Data";
+"filter.unknown" = "Unknown";
+"filter.type" = "Type";
+
+// MARK: - Search
+"search.placeholder" = "Search assets...";
+
+// MARK: - Status
+"status.noFile" = "No File";
+"status.total %lld" = "%lld items";
+"status.filtered %lld %lld" = "Showing %lld of %lld items";
+"status.selected %lld" = "%lld items selected";
+
+// MARK: - Export
+"export.selected" = "Export Selected";
+"export.all" = "Export All";
+"export.selectFolder" = "Select Export Folder";
+
+// MARK: - Detail Panel
+"detail.noSelection" = "No Selection";
+"detail.type" = "Type";
+"detail.element" = "Element";
+"detail.size" = "Size";
+"detail.scale" = "Scale";
+"detail.idiom" = "Idiom";
+"detail.opacity" = "Opacity";
+"detail.export" = "Export";
+"detail.replace" = "Replace Image";
+"detail.copyName" = "Copy Name";
+
+// MARK: - Empty State
+"empty.title" = "No Assets";
+"empty.subtitle" = "Open a .car file or drag and drop one here";
+"empty.openButton" = "Open File...";
+
+// MARK: - Loading
+"loading.message" = "Loading assets...";
+
+// MARK: - Errors
+"error.title" = "Error";
+"error.loadFailed" = "Failed to load the file";
+"error.exportFailed" = "Failed to export";
+"error.invalidFile" = "Invalid file format";
+
+// MARK: - Buttons
+"button.ok" = "OK";
+"button.cancel" = "Cancel";

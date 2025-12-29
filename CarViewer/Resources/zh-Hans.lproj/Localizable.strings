@@ -1,0 +1,77 @@
+/*
+  Localizable.strings (简体中文)
+  CarViewer
+*/
+
+// MARK: - App
+"app.name" = "CarViewer";
+
+// MARK: - Menu
+"menu.file" = "文件";
+"menu.open" = "打开...";
+"menu.save" = "保存";
+"menu.export" = "导出";
+"menu.exportSelected" = "导出选中...";
+"menu.exportAll" = "导出全部...";
+"menu.replace" = "替换图片...";
+"menu.copyName" = "复制名称";
+"menu.copySize" = "复制尺寸";
+
+// MARK: - Sidebar
+"sidebar.categories" = "分类";
+
+// MARK: - Filter Types
+"filter.all" = "全部";
+"filter.image" = "图片";
+"filter.color" = "颜色";
+"filter.gradient" = "渐变";
+"filter.effect" = "效果";
+"filter.pdf" = "PDF";
+"filter.svg" = "SVG";
+"filter.rawData" = "原始数据";
+"filter.unknown" = "未知";
+"filter.type" = "类型";
+
+// MARK: - Search
+"search.placeholder" = "搜索资源...";
+
+// MARK: - Status
+"status.noFile" = "未打开文件";
+"status.total %lld" = "共 %lld 项";
+"status.filtered %lld %lld" = "显示 %lld / %lld 项";
+"status.selected %lld" = "已选择 %lld 项";
+
+// MARK: - Export
+"export.selected" = "导出选中";
+"export.all" = "导出全部";
+"export.selectFolder" = "选择导出文件夹";
+
+// MARK: - Detail Panel
+"detail.noSelection" = "未选择";
+"detail.type" = "类型";
+"detail.element" = "元素";
+"detail.size" = "尺寸";
+"detail.scale" = "缩放";
+"detail.idiom" = "设备";
+"detail.opacity" = "透明度";
+"detail.export" = "导出";
+"detail.replace" = "替换图片";
+"detail.copyName" = "复制名称";
+
+// MARK: - Empty State
+"empty.title" = "暂无资源";
+"empty.subtitle" = "打开 .car 文件或拖拽到此处";
+"empty.openButton" = "打开文件...";
+
+// MARK: - Loading
+"loading.message" = "正在加载资源...";
+
+// MARK: - Errors
+"error.title" = "错误";
+"error.loadFailed" = "加载文件失败";
+"error.exportFailed" = "导出失败";
+"error.invalidFile" = "无效的文件格式";
+
+// MARK: - Buttons
+"button.ok" = "好";
+"button.cancel" = "取消";
