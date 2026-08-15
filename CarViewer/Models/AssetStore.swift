@@ -587,6 +587,7 @@ final class AssetStore {
 
         bitmapRendition.image = imageRep
         item.refreshPreview()
+        save()
     }
 
     /// 保存修改
